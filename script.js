@@ -96,7 +96,6 @@ document.addEventListener("DOMContentLoaded", function () {
 `Hola!! 🙌🏻 `,
 `Holuu! 🥰`,
 `Holaa!! 😝`,
-`Buenas nocheeess!!`,
 `Buenass!! ☺️`,
 `Holaa buenas!! 😁`,
 `Buenas buenas!! 😝`
@@ -548,5 +547,6 @@ Te envió Alias? confírmame 🥰🍀
     document.body.style.overflow = "auto"; // Permitir desplazamiento del body
   });
 });
+
 
 
