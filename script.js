@@ -86,6 +86,7 @@ document.addEventListener("DOMContentLoaded", function () {
 `Holii buenas!! 😝`,
 `Holuuu!! 😝`,
 `Buenass 💕`,
+`Holu buenas, como estas?? 🤗`,
 `Holaa buenas!! 🥰`,
 `Holii!! 🥰`,
 `Bueenass!!! 🤩`,
@@ -95,6 +96,7 @@ document.addEventListener("DOMContentLoaded", function () {
 `Holaaa!! 🤩`,
 `Hola!! 🙌🏻 `,
 `Holuu! 🥰`,
+`Holu como te va?? 🤗`,
 `Holaa!! 😝`,
 `Buenass!! ☺️`,
 `Holaa buenas!! 😁`,
@@ -547,6 +549,7 @@ Te envió Alias? confírmame 🥰🍀
     document.body.style.overflow = "auto"; // Permitir desplazamiento del body
   });
 });
+
 
 
 
